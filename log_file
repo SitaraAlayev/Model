@@ -1,0 +1,42 @@
+13/01/20 10:37:27-Log: File open
+13/01/20 10:37:32-Log: Main.py -loginFrame:Succeeded
+13/01/20 10:37:45-Log: Main.py -loginFrame:coordinator-Succeeded
+13/01/20 10:37:47-Log: database.py-login:Succeeded
+13/01/20 10:37:50-Log: Login.db-loginFrame:Succeeded
+13/01/20 10:37:51-Log: Main.py- addLucture:Succeeded
+13/01/20 10:37:52-Log: login.db- addLucture:Succeeded
+13/01/20 10:37:53-Log: Main.py- addStudent:Succeeded
+13/01/20 10:37:55-Log: login.db- addStudent:Succeeded
+13/01/20 10:37:56-Log: Main.py- removeLucture:Succeeded
+13/01/20 10:37:57-Log: login.db- removeLucture:Succeeded
+13/01/20 10:37:58-Log: Main.py- removeStudent:Succeeded
+13/01/20 10:38:00-Log: login.db- removeStudent:Succeeded
+13/01/20 10:38:01-Log: Main.py- Cut_to_PDF:Succeeded
+13/01/20 10:38:02-Log: Main.py- Cut_to_Word:Fail
+13/01/20 10:38:03-Log: File close
+
+13/01/20 10:38:05-Log: File open
+13/01/20 10:38:06-Log: Main.py -loginFrame:Succeeded
+13/01/20 10:38:07-Log: Main.py -loginFrame:lecturer-Succeeded
+13/01/20 10:38:08-Log: database.py-login:Succeeded
+13/01/20 10:38:09-Log: Login.db-loginFrame:Succeeded
+13/01/20 10:38:10-Log: Main.py- createFile-Course:Succeeded
+13/01/20 10:38:11-Log: Course.txt-create:Succeeded
+13/01/20 10:38:12-Log: Main.py- createFile-Quest:Succeeded
+13/01/20 10:38:13-Log: Quest.txt-create:Succeeded
+13/01/20 10:38:14-Log: Main.py- addtoFile-Course:Succeeded
+13/01/20 10:38:15-Log: Main.py- addtoFile-Quest:Succeeded
+13/01/20 10:38:16-Log: file close
+
+13/01/20 10:38:18-Log: File open
+13/01/20 10:38:19-Log: Main.py -loginFrame:Succeeded
+13/01/20 10:38:20-Log: Main.py -loginFrame:student-Succeeded
+13/01/20 10:38:21-Log: database.py-login:Succeeded
+13/01/20 10:38:22-Log: Login.db-loginFrame:Succeeded
+13/01/20 10:38:23-Log: Main.py -loginFrame:student-Succeeded
+13/01/20 10:40:24-Log: Main.py-SearchQuest:Fail
+13/01/20 10:42:25-Log: Main.py-RateQuest:Fail
+13/01/20 10:43:26-Log: file close
+
+
+
